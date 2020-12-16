@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T01:35:25.965Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.3" etag="WxZ3VEBYELlhtZrrhea1" type="github"><diagram id="E2YPs1XDWaf8-1GBhOvZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T10:05:36.148Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="j26yAxs2Z9flNI_SVJ7t" version="14.0.3" type="github">
+  <diagram id="E2YPs1XDWaf8-1GBhOvZ" name="第 1 页">
+    <mxGraphModel dx="782" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DkUu35iDDZaPHqgWe5xr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DkUu35iDDZaPHqgWe5xr-1" target="DkUu35iDDZaPHqgWe5xr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkUu35iDDZaPHqgWe5xr-1" value="bank-product-forward&lt;br&gt;产品前置平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="390" width="240" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="DkUu35iDDZaPHqgWe5xr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DkUu35iDDZaPHqgWe5xr-4" target="DkUu35iDDZaPHqgWe5xr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkUu35iDDZaPHqgWe5xr-4" value="&lt;h5 style=&quot;text-align: justify&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400 ; text-align: center&quot;&gt;bank-product-core&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400 ; text-align: center&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;产品核心交易平台&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h5&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="30" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DkUu35iDDZaPHqgWe5xr-8" value="bank-agreement&lt;br&gt;协议平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="830" width="265" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
